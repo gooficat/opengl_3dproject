@@ -1,0 +1,1 @@
+g++ -g main.cpp src/*  -o app.exe -Iinclude -lopengl32 -lglfw3
